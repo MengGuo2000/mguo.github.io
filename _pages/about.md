@@ -25,7 +25,7 @@ My research interest includes travel behavior, choice modelling, choice experime
 You can find my CV here: [Meng Guo's Curriculum Vitae](../assets/CV_Meng_Guo.pdf).
 
 # 🔥 News
-- *2024.01*: &nbsp;🎉🎉 Gave a poster presentation at TRBAM2024, titled *"Content analysis of Chinese cities’ Five-Year Plan transport policy documents"*.
+- **2024.01**: &nbsp;🎉🎉 Gave a poster presentation at TRBAM2024, titled *"Content analysis of Chinese cities’ Five-Year Plan transport policy documents"*.
 <!--  - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📝 Publications 
@@ -47,21 +47,21 @@ You can find my CV here: [Meng Guo's Curriculum Vitae](../assets/CV_Meng_Guo.pdf
 - **Guo, M.**, Wu C., Ren G., Zhang J., \& Ma J. (2023). Spatio-temporal analysis of passenger flow based on an interdependent metro-bus network. Proceedings of the 23rd COTA International Conference of Transportation Professionals, 575-584. [https://doi.org/10.1061/9780784484869.056](https://doi.org/10.1061/9780784484869.056)
 
 # 🎖 Honors and Awards
-- *Oct 2023* Master’s Academic Scholarship, Southeast University.
-- *Oct 2022* 2nd Class Academic Scholarship, Southeast University.
-- *Jul 2022* 2nd Prize in National Competition of Transport Science and Technology for Students.
-- *May 2022* Advanced Graduate Student, School of Transportation, Southeast University.
+- **Oct 2023**: Master’s Academic Scholarship, Southeast University.
+- **Oct 2022**: 2nd Class Academic Scholarship, Southeast University.
+- **Jul 2022**: 2nd Prize in National Competition of Transport Science and Technology for Students.
+- **May 2022**: Advanced Graduate Student, School of Transportation, Southeast University.
 <!-- - *Oct 2022* Advanced Graduate Student in Sports and Aesthetics, Southeast University.  -->
 <!-- - *Oct 2021* 3rd Class Academic Scholarship, Southeast University.  -->
 
 # 📖 Educations
-- *2021.09 - 2024.06 (present)*, Master in Transportation Engineering, School of Transportation, Southeast University. 
-- *2017.09 - 2021.06*, Bachelor in Traffic Engineering, School of Transportation, Southeast University. 
+- **2021.09 - 2024.06 (present)**, Master in Transportation Engineering, School of Transportation, Southeast University. 
+- **2017.09 - 2021.06**, Bachelor in Traffic Engineering, School of Transportation, Southeast University. 
 
-<!--  # 💬 Invited Talks -->
-<!--  - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
-<!--  - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
+# 🎯 Skills
+- **Programming**: Python (Biogeme, SciPy, scikit-learn, numpy, pandas), R, HTML, CSS, JavaScript
+- **Software**: Qualtrics, Ztree, SPSS, STATA
 
 # 💻 Internships
-- *2021.06 - 2021.07*, Nanjing Institute of City & Transport Planning Co., Ltd. Nanjing, China.
+- **2021.06 - 2021.07**, Nanjing Institute of City & Transport Planning Co., Ltd. Nanjing, China.
  - Participated in the revision of The Standard and Guideline for the Parking Facilities of Buildings in Nanjing City. Mainly responsible for: using entropy weight method and nested logit model to estimate parking demand for different metro stations.
