@@ -8,37 +8,37 @@ redirect_from:
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
+<!--  if site.google_scholar_stats_use_cdn -->
+<!--  assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" -->
+<!--  else -->
+<!--  assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" -->
+<!--  endif -->
+<!--  assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" -->
 
 <span class='anchor' id='about-me'></span>
 I'm a final year graduate student from [School of Transportation](https://tc.seu.edu.cn/), [Southeast University](https://www.seu.edu.cn/). I am very fortunate to be advised by [Prof. Gang Ren](https://tc.seu.edu.cn/2019/1022/c25722a291836/page.htm) from Southeast University and [Prof. Chenyang Wu](https://teacher.nwpu.edu.cn/2023010029) from Northwestern Polytechnical University.
 
-My research interest includes travel behavior, choice modelling, choice experiment, multimodal transportation, and mobility service. I have published several papers in relevant areas with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interest includes travel behavior, choice modelling, choice experiment, multimodal transportation, and mobility service. I have published several papers in relevant areas with total google scholar citations  <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 You can find my CV here: [Meng Guo's Curriculum Vitae](../assets/CV_Meng_Guo.pdf).
 
-{% # 🔥 News %}
-{% - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  %}
-{% - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  %}
+<!--  # 🔥 News -->
+<!--  - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+<!--  - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📝 Publications 
 
-{% <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div> %}
-{% <div class='paper-box-text' markdown="1"> %}
+<!--  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div> -->
+<!--  <div class='paper-box-text' markdown="1"> -->
 
-{% [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf) %}
+<!--  [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf) -->
 
-{% **Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun %}
+<!--  **Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun -->
 
-{% [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> %}
-{% - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  %}
-{% </div> %}
-{% </div> %}
+<!--  [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
+<!--  - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
+<!--  </div> -->
+<!--  </div> -->
 
 - **Guo, M.**, Li, Q., Wu, C., Le Vine, S., & Ren, G. (2023). Content analysis of Chinese cities’ Five-Year Plan transport policy documents. Case Studies on Transport Policy, 13, 101055. [https://doi.org/10.1016/j.cstp.2023.101055](https://doi.org/10.1016/j.cstp.2023.101055)
 - **Guo, M.**, Li, Q., Wu, C., Le Vine, S., & Ren, G. (2024). Content analysis of Chinese cities’ Five-Year Plan transport policy documents. Transportation Research Board.
@@ -56,9 +56,9 @@ You can find my CV here: [Meng Guo's Curriculum Vitae](../assets/CV_Meng_Guo.pdf
 - *2021.09 - 2024.06 (present)*, Master in Transportation Engineering, School of Transportation, Southeast University. 
 - *2017.09 - 2021.06*, Bachelor in Traffic Engineering, School of Transportation, Southeast University. 
 
-{% # 💬 Invited Talks %}
-{% - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  %}
-{% - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) %}
+<!--  # 💬 Invited Talks -->
+<!--  - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+<!--  - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
-{% # 💻 Internships %}
-{% - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. %}
+<!--  # 💻 Internships -->
+<!--  - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
