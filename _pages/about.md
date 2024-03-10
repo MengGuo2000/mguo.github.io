@@ -31,7 +31,6 @@ You can find my CV here: [Meng Guo's Curriculum Vitae](../assets/CV_Meng_Guo.pdf
 - **2021.09 - 2024.06 (present)**, Master in Transportation Engineering, School of Transportation, Southeast University. 
 - **2017.09 - 2021.06**, Bachelor in Traffic Engineering, School of Transportation, Southeast University.
 
-
 # 📝 Publications 
 
 <!--  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div> -->
@@ -45,7 +44,6 @@ You can find my CV here: [Meng Guo's Curriculum Vitae](../assets/CV_Meng_Guo.pdf
 <!--  - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
 <!--  </div> -->
 <!--  </div> -->
-
 - **Guo, M.**, Li, Q., Wu, C., Le Vine, S., & Ren, G. (2023). Content analysis of Chinese cities’ Five-Year Plan transport policy documents. Case Studies on Transport Policy, 13, 101055. [https://doi.org/10.1016/j.cstp.2023.101055](https://doi.org/10.1016/j.cstp.2023.101055)
 - **Guo, M.**, Li, Q., Wu, C., Le Vine, S., & Ren, G. (2024). Content analysis of Chinese cities’ Five-Year Plan transport policy documents. Transportation Research Board.
 - **Guo, M.**, Wu C., Ren G., Zhang J., & Ma J. (2023). Spatio-temporal analysis of passenger flow based on an interdependent metro-bus network. Proceedings of the 23rd COTA International Conference of Transportation Professionals, 575-584. [https://doi.org/10.1061/9780784484869.056](https://doi.org/10.1061/9780784484869.056)
