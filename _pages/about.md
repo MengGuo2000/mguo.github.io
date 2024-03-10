@@ -19,7 +19,7 @@ redirect_from:
 
 I'm a final-year graduate student from [School of Transportation](https://tc.seu.edu.cn/), [Southeast University](https://www.seu.edu.cn/). I am very fortunate to be advised by Prof. Gang Ren ([任刚](https://tc.seu.edu.cn/2019/1022/c25722a291836/page.htm)) from Southeast University, and Prof. Chenyang Wu ([吴辰旸](https://teacher.nwpu.edu.cn/2023010029)) from Northwestern Polytechnical University.
 
-My research interest includes travel behavior, choice modelling, choice experiment, multimodal transportation, and mobility service. I have published several papers in relevant areas with total google scholar citations  <a href='https://scholar.google.com/citations?user=psLnv6sAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+My research interest includes travel behavior, choice experiment, choice modelling, multimodal transportation, and mobility service. I have published several papers in relevant areas with total google scholar citations  <a href='https://scholar.google.com/citations?user=psLnv6sAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 You can find my CV here: [Meng's Curriculum Vitae](../assets/CV_Meng_Guo.pdf).
 
