@@ -24,8 +24,8 @@ My research interest includes travel behavior, choice modelling, choice experime
 
 You can find my CV here: [Meng Guo's Curriculum Vitae](../assets/CV_Meng_Guo.pdf).
 
-<!--  # 🔥 News -->
-<!--  - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+# 🔥 News
+- *2024.01*: &nbsp;🎉🎉 Give a poster presentation at TRBAM2024, titled "Content analysis of Chinese cities’ Five-Year Plan transport policy documents".
 <!--  - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📝 Publications 
