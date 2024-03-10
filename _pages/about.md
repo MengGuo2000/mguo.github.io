@@ -49,9 +49,9 @@ You can find my CV here: [Meng Guo's Curriculum Vitae](../assets/CV_Meng_Guo.pdf
 # 🎖 Honors and Awards
 - *Oct 2023* Master’s Academic Scholarship, Southeast University.
 - *Oct 2022* 2nd Class Academic Scholarship, Southeast University.
-<!-- - *Oct 2022* Advanced Graduate Student in Sports and Aesthetics, Southeast University.  -->
 - *Jul 2022* 2nd Prize in National Competition of Transport Science and Technology for Students.
 - *May 2022* Advanced Graduate Student, School of Transportation, Southeast University.
+<!-- - *Oct 2022* Advanced Graduate Student in Sports and Aesthetics, Southeast University.  -->
 <!-- - *Oct 2021* 3rd Class Academic Scholarship, Southeast University.  -->
 
 # 📖 Educations
