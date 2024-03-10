@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Meng Guo - Homepage"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+description              : "School of Transportation, Southeast University. "
 repository               : "MengGuo2000/MengGuo2000.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,14 +22,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Meng Guo"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
-  location         : "Beijing, China"
+  avatar           : "images/Meng.png"
+  bio              : "Southeast University"
+  location         : "Nanjing, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "Lorem@ipsum.com"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.com/citations?user=psLnv6sAAAAJ"
+  email            : "guomeng@seu.edu.cn"
+  researchgate     : "https://www.researchgate.net/profile/Meng-Guo-33"
   uri              :
   bitbucket        :
   codepen          :
@@ -43,9 +43,9 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # e.g., "linkedin username"
+  linkedin         : "linkedin.com/in/meng-guo-274458282"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  orcid            : "https://orcid.org/0009-0003-3506-0636"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
