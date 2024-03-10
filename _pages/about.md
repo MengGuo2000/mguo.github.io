@@ -28,8 +28,8 @@ You can find my CV here: [Meng's Curriculum Vitae](../assets/CV_Meng_Guo.pdf).
 <!--  - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📖 Educations
-- **2021.09 - 2024.06 (present)**： Master in Transportation Engineering, School of Transportation, Southeast University. 
-- **2017.09 - 2021.06**： Bachelor in Traffic Engineering, School of Transportation, Southeast University.
+- **2021.09 - 2024.06 (present)**： Master's student in Transportation Engineering, School of Transportation, Southeast University. 
+- **2017.09 - 2021.06**： Bachelor's degree in Traffic Engineering, School of Transportation, Southeast University.
 
 # 📝 Publications 
 
