@@ -21,17 +21,16 @@ I'm a final year graduate student from [School of Transportation](https://tc.seu
 
 My research interest includes travel behavior, choice modelling, choice experiment, multimodal transportation, and mobility service. I have published several papers in relevant areas with total google scholar citations  <a href='https://scholar.google.com/citations?user=psLnv6sAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
-<!-- I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
-
 You can find my CV here: [Meng Guo's Curriculum Vitae](../assets/CV_Meng_Guo.pdf).
+
+# 🔥 News
+- **2024.01**: &nbsp;🎉🎉 Gave a poster presentation at TRBAM2024, titled *"Content analysis of Chinese cities’ Five-Year Plan transport policy documents"*.
+<!--  - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📖 Educations
 - **2021.09 - 2024.06 (present)**, Master in Transportation Engineering, School of Transportation, Southeast University. 
 - **2017.09 - 2021.06**, Bachelor in Traffic Engineering, School of Transportation, Southeast University.
 
-# 🔥 News
-- **2024.01**: &nbsp;🎉🎉 Gave a poster presentation at TRBAM2024, titled *"Content analysis of Chinese cities’ Five-Year Plan transport policy documents"*.
-<!--  - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📝 Publications 
 
