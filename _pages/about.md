@@ -17,19 +17,19 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm a final year graduate student from [School of Transportation](https://tc.seu.edu.cn/), [Southeast University](https://www.seu.edu.cn/). I am very fortunate to be advised by [Prof. Gang Ren](https://tc.seu.edu.cn/2019/1022/c25722a291836/page.htm) from Southeast University, and [Prof. Chenyang Wu](https://teacher.nwpu.edu.cn/2023010029) from Northwestern Polytechnical University.
+I'm a final-year graduate student from [School of Transportation](https://tc.seu.edu.cn/), [Southeast University](https://www.seu.edu.cn/). I am very fortunate to be advised by Prof. Gang Ren ([任刚](https://tc.seu.edu.cn/2019/1022/c25722a291836/page.htm)) from Southeast University, and Prof. Chenyang Wu ([吴辰旸](https://teacher.nwpu.edu.cn/2023010029)) from Northwestern Polytechnical University.
 
 My research interest includes travel behavior, choice modelling, choice experiment, multimodal transportation, and mobility service. I have published several papers in relevant areas with total google scholar citations  <a href='https://scholar.google.com/citations?user=psLnv6sAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
-You can find my CV here: [Meng Guo's Curriculum Vitae](../assets/CV_Meng_Guo.pdf).
+You can find my CV here: [Meng's Curriculum Vitae](../assets/CV_Meng_Guo.pdf).
 
 # 🔥 News
 - **2024.01**: &nbsp;🎉🎉 Gave a poster presentation at TRBAM2024, titled *"Content analysis of Chinese cities’ Five-Year Plan transport policy documents"*.
 <!--  - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📖 Educations
-- **2021.09 - 2024.06 (present)**, Master in Transportation Engineering, School of Transportation, Southeast University. 
-- **2017.09 - 2021.06**, Bachelor in Traffic Engineering, School of Transportation, Southeast University.
+- **2021.09 - 2024.06 (present)**： Master in Transportation Engineering, School of Transportation, Southeast University. 
+- **2017.09 - 2021.06**： Bachelor in Traffic Engineering, School of Transportation, Southeast University.
 
 # 📝 Publications 
 
@@ -61,5 +61,5 @@ You can find my CV here: [Meng Guo's Curriculum Vitae](../assets/CV_Meng_Guo.pdf
 - **Software**: Qualtrics, Ztree, SPSS, STATA
 
 # 💻 Internships
-- **2021.06 - 2021.07**, Nanjing Institute of City & Transport Planning Co., Ltd. Nanjing, China.
+- **2021.06 - 2021.07**： Nanjing Institute of City & Transport Planning Co., Ltd. Nanjing, China.
   - Participated in the revision of The Standard and Guideline for the Parking Facilities of Buildings in Nanjing City. Mainly responsible for: using entropy weight method and nested logit model to estimate parking demand for different metro stations.
