@@ -21,7 +21,7 @@ I'm a final-year graduate student from [School of Transportation](https://tc.seu
 
 My research interest includes travel behavior, choice experiment, choice modelling, multimodal transportation, and mobility service. I have published several papers in relevant areas with total google scholar citations  <a href='https://scholar.google.com/citations?user=psLnv6sAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
-You can find my CV here: [Meng's Curriculum Vitae](../assets/CV_Meng_Guo.pdf).
+<!-- You can find my CV here: [Meng's Curriculum Vitae](../assets/CV_Meng_Guo.pdf).-->
 
 # 🔥 News
 - **2024.01**: &nbsp;🎉🎉 Gave a poster presentation at TRBAM2024, titled *"Content analysis of Chinese cities’ Five-Year Plan transport policy documents"*.
