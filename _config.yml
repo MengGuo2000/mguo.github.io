@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Meng Guo"
-description              : "School of Transportation, Southeast University. "
+description              : "PhD student in Transportation"
 repository               : "MengGuo2000/MengGuo2000.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Meng Guo"
   avatar           : "images/Meng.png"
-  bio              : "Southeast University"
-  location         : "Nanjing, China"
+  bio              : "The Hong Kong Polyutechnic University"
+  location         : "Hong Kong"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=psLnv6sAAAAJ"
-  email            : "guomeng@seu.edu.cn"
+  email            : "is.mguo@gmail.com"
   researchgate     : "https://www.researchgate.net/profile/Meng-Guo-33"
   uri              :
   bitbucket        :
