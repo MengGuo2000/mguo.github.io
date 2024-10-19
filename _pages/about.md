@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm a final-year graduate student from [School of Transportation](https://tc.seu.edu.cn/), [Southeast University](https://www.seu.edu.cn/). I am very fortunate to be advised by Prof. Gang Ren ([任刚](https://tc.seu.edu.cn/2019/1022/c25722a291836/page.htm)) from Southeast University, Assoc. Prof. Chenyang Wu ([吴辰旸](https://teacher.nwpu.edu.cn/2023010029)) from Northwestern Polytechnical University, and Assis. Prof. Sisi Jian ([簡思思](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=sisi-jian-cesjian)) from The Hong Kong University of Science and Technology.
+I'm a PhD student at [The Hong Kong Polyutechnic University](https://www.polyu.edu.hk/) supervised by [Dr Sunghoon Jang](https://www.polyu.edu.hk/cee/people/academic-staff/dr-sung-hoon-jang/). Prior to joining PolyU, I was advised by Prof. Gang Ren ([任刚](https://tc.seu.edu.cn/2019/1022/c25722a291836/page.htm)) from Southeast University, and Assoc. Prof. Chenyang Wu ([吴辰旸](https://teacher.nwpu.edu.cn/2023010029)) from Northwestern Polytechnical University.
 
-My research interest includes travel behavior, choice experiment, choice modelling, multimodal transportation, and mobility service. I have published several papers in relevant areas with total google scholar citations  <a href='https://scholar.google.com/citations?user=psLnv6sAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+My research interests include travel behavior, choice experiment, choice modeling, multimodal transportation, and mobility services. I have published several papers in relevant areas with total google scholar citations  <a href='https://scholar.google.com/citations?user=psLnv6sAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 <!-- You can find my CV here: [Meng's Curriculum Vitae](../assets/CV_Meng_Guo.pdf).-->
 
@@ -28,7 +28,8 @@ My research interest includes travel behavior, choice experiment, choice modelli
 <!--  - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📖 Educations
-- **2021.09 - 2024.06 (present)**： Master's student in Transportation Engineering, School of Transportation, Southeast University. 
+- **2024.09 - present**： PhD student in Transportation, Department of Civil and Environmental Engineering, The Hong Kong Polyutechnic University. 
+- **2021.09 - 2024.06**： Master's student in Transportation Engineering, School of Transportation, Southeast University. 
 - **2017.09 - 2021.06**： Bachelor's degree in Traffic Engineering, School of Transportation, Southeast University.
 
 # 📝 Publications 
@@ -48,11 +49,11 @@ My research interest includes travel behavior, choice experiment, choice modelli
 - **Guo, M.**, Li, Q., Wu, C., Le Vine, S., & Ren, G. (2024). Content analysis of Chinese cities’ Five-Year Plan transport policy documents. Transportation Research Board.
 - **Guo, M.**, Wu C., Ren G., Zhang J., & Ma J. (2023). Spatio-temporal analysis of passenger flow based on an interdependent metro-bus network. Proceedings of the 23rd COTA International Conference of Transportation Professionals, 575-584. [https://doi.org/10.1061/9780784484869.056](https://doi.org/10.1061/9780784484869.056)
 
-# 🎖 Honors and Awards
-- **Oct 2023**: Master’s Academic Scholarship, Southeast University.
-- **Oct 2022**: 2nd Class Academic Scholarship, Southeast University.
-- **Jul 2022**: 2nd Prize in National Competition of Transport Science and Technology for Students.
-- **May 2022**: Advanced Graduate Student, School of Transportation, Southeast University.
+<!--# 🎖 Honors and Awards -->
+<!--- **Oct 2023**: Master’s Academic Scholarship, Southeast University. -->
+<!--- **Oct 2022**: 2nd Class Academic Scholarship, Southeast University. -->
+<!--- **Jul 2022**: 2nd Prize in National Competition of Transport Science and Technology for Students. -->
+<!--- **May 2022**: Advanced Graduate Student, School of Transportation, Southeast University. -->
 <!-- - *Oct 2022* Advanced Graduate Student in Sports and Aesthetics, Southeast University.  -->
 <!-- - *Oct 2021* 3rd Class Academic Scholarship, Southeast University.  -->
 
