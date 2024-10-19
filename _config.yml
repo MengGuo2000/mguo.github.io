@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Meng Guo"
-description              : "PhD student in Transportation"
+description              : "Department of Civil and Environmental Engineering, The Hong Kong Polyutechnic University"
 repository               : "MengGuo2000/MengGuo2000.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Meng Guo"
   avatar           : "images/Meng.png"
-  bio              : "The Hong Kong Polyutechnic University"
+  bio              : "PhD student in Transportation"
   location         : "Hong Kong"
   employer         :
   pubmed           : 
