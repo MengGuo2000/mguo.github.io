@@ -47,10 +47,11 @@ My research interests include travel behavior, choice experiment, choice modelin
 <!--  </div> -->
 **Journal articles**
 - **Guo, M.**, Li, Q., Wu, C., Le Vine, S., & Ren, G. (2023). Content analysis of Chinese cities’ Five-Year Plan transport policy documents. Case Studies on Transport Policy, 13, 101055. [https://doi.org/10.1016/j.cstp.2023.101055](https://doi.org/10.1016/j.cstp.2023.101055)
+
 **Conference papers**
 - **Guo, M.**, Liu, J., Jian, S., Ren, G., & Wu, C. (2025). Exploring Subscription and Travel Choice Changes under Mobility-as-a-Service
 Bundles: Evidence from Experimental Economics. Transportation Research Board.
-- - **Guo, M.**, Li, Q., Wu, C., Le Vine, S., & Ren, G. (2024). Content analysis of Chinese cities’ Five-Year Plan transport policy documents. Transportation Research Board.
+- **Guo, M.**, Li, Q., Wu, C., Le Vine, S., & Ren, G. (2024). Content analysis of Chinese cities’ Five-Year Plan transport policy documents. Transportation Research Board.
 - **Guo, M.**, Wu C., Ren G., Zhang J., & Ma J. (2023). Spatio-temporal analysis of passenger flow based on an interdependent metro-bus network. Proceedings of the 23rd COTA International Conference of Transportation Professionals, 575-584. [https://doi.org/10.1061/9780784484869.056](https://doi.org/10.1061/9780784484869.056)
 
 <!--# 🎖 Honors and Awards -->
